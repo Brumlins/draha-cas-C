@@ -1,0 +1,13 @@
+poradi               draha                   cas   rychlost
+---------------------------------------------------------------
+     1.   0 km   467 metru   0 minut   19 sekund   88.48 km/h
+     2.  13 km   503 metru   5 minut   56 sekund  136.55 km/h
+     3.  29 km   335 metru  28 minut   13 sekund   62.38 km/h
+     4.  19 km   116 metru   4 minut    7 sekund  278.61 km/h
+     5.  22 km   816 metru  23 minut   39 sekund   57.88 km/h
+     6.  19 km    47 metru  17 minut   35 sekund   64.99 km/h
+     7.  16 km   131 metru  22 minut   38 sekund   42.76 km/h
+     8.  26 km   615 metru  10 minut   12 sekund  156.56 km/h
+     9.  12 km   644 metru   2 minut   38 sekund  288.09 km/h
+
+Do souboru prevody.txt bylo zapsano 9 dvojic cisel.

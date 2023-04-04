@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\draha.dir/objects.a
+C:\mingw-w64\mingw64\bin\ar.exe cr CMakeFiles\draha.dir/objects.a @CMakeFiles\draha.dir\objects1.rsp
+C:\mingw-w64\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\draha.dir/objects.a -Wl,--no-whole-archive -o draha.exe -Wl,--out-implib,libdraha.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\draha.dir\linklibs.rsp
